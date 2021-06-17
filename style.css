@@ -1,6 +1,10 @@
 html {
     scroll-behavior: smooth;
 }
+.cardFace{
+    width:447.6px;
+    height: 628.2px;
+}
 .topnav{
     overflow:hidden;
     background-color: rgba(255, 255, 255, .15);
